@@ -1,7 +1,10 @@
 ## Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2) 
-Author 
+Author :
+
 Name: Menaka M S 
+
 Register Number: 212225040232 
+
 ## Objective 
 The objective of this experiment is to understand the fundamentals of Amazon Elastic Compute Cloud 
 (EC2). This lab focuses on launching and managing a virtual server, understanding instance types and 
